@@ -13,7 +13,7 @@
     "stack": "container",
     "env": {
       "TOKEN": {
-        "description": "The Telegram bot token that you get from https://t.me/BotFather.",
+        "description": "6762703596:AAFsFb307KE4PBkB0Xx5ChOyMKzDpFus8qM",
         "required": true
       }
     },
